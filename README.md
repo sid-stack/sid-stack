@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Siddhant
 
-<!--
-**sid-stack/sid-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MLOps + GenAI Engineer | Builder of autonomous systems  
+🧠 Currently focused on local LLM deployment, LangFlow orchestration, and agentic AI systems.  
+🛠️ Working on Research Co-Pilot — an AI-native tool for researchers.
 
-Here are some ideas to get you started:
+### 🔍 What I Work On
+- 🧩 Modular RAG pipelines using LangChain & FAISS
+- 🧠 Local LLM orchestration via LangFlow + Ollama
+- ☁️ Deployments using FastAPI, Docker, AWS
+- ⚡️ Distributed finetuning with DeepSpeed + FSDP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech I Use
+`Python` · `LangChain` · `Ollama` · `LangFlow` · `FAISS` · `AWS` · `Docker`  
+`FastAPI` · `DeepSpeed` · `FSDP` · `Groq` · `PyTorch`
+
+### 🧰 Core Tech Stack  
+`Python` · `Java` · `TypeScript` · `Shell`  
+`LangChain` · `Ollama` · `LangFlow` · `FAISS`  
+`AWS` · `Docker` · `FastAPI` · `Linux`  
+`DeepSpeed` · `FSDP` · `Groq` · `PyTorch`
+
+### 📫 Reach Me
+- [LinkedIn](https://linkedin.com/in/tech-sid)
